@@ -1,0 +1,21 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+ERROR:  [DRC0004]  Possible pin type conflict U2,VOUT Output Connected to Power
+                    SCHEMATIC1, PAGE1  (6.70, 1.40) 
+
+Checking for Unconnected Nets
+
+Checking for Invalid References
+[DRC0011]  Reference is invalid for this part HEADER NAP
+                    SCHEMATIC1, PAGE1  (8.80, 3.80) 
+[DRC0011]  Reference is invalid for this part VR LCD
+                    SCHEMATIC1, PAGE1  (8.90, 1.90) 
+
+Checking for Duplicate References
+
+Check Bus width mismatch

@@ -1,0 +1,13 @@
+VERSION:1 SOURCE_TIMESTAMP:446D33FB
+NODE:M LEVEL:0 LINE:5 "RX_BUFFER_SIZE"
+NODE:V LEVEL:0 LINE:6 "rx_buffer -> RAM:????"
+NODE:V LEVEL:0 LINE:9 "rx_wr_index -> RAM:????"
+NODE:V LEVEL:0 LINE:9 "rx_rd_index -> RAM:????"
+NODE:V LEVEL:0 LINE:9 "rx_counter -> RAM:????"
+NODE:V LEVEL:0 LINE:14 "rx_buffer_overflow -> R2.4"
+NODE:M LEVEL:0 LINE:57 "TX_BUFFER_SIZE"
+NODE:V LEVEL:0 LINE:58 "tx_buffer -> RAM:????"
+NODE:V LEVEL:0 LINE:61 "tx_wr_index -> RAM:????"
+NODE:V LEVEL:0 LINE:61 "tx_rd_index -> RAM:????"
+NODE:V LEVEL:0 LINE:61 "tx_counter -> RAM:????"
+NODE:M LEVEL:0 LINE:79 "_ALTERNATE_PUTCHAR_"

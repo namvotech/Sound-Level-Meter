@@ -1,0 +1,142 @@
+AutoECO Report
+FILE-A: C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+FILE-B: D:\SOUND LEVEL METER PROJECT\MO PHONG_SOUND LEVEL METER_V3\SOUND LEVEL METER_OK\BOARD_NOISE LEVEL METER\NOISE LEVEL METER.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package HEADER_6
+Adding package CAP
+Adding package CON3
+Adding package C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\OLDLIBS\DEVICE.OLB/CAP
+Adding package C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\OLDLIBS\PSPICE.OLB/CAP
+Adding package LED
+Adding package RESISTOR_VAR_0
+Adding package HEADER_1
+Adding package R
+Adding package RESISTOR
+Adding package CON16
+Adding package CRYSTAL
+Adding package CAPACITOR
+Adding package HEADER_3
+Adding package SW_PUSHBUTTON
+Adding package RESISTOR_VAR_1
+Adding package LM7805/TO_1
+Adding package RES
+Adding package BRIDGE_0
+Adding package HEADER_14X2_0
+Adding package HEADER_8X2_0
+Adding package SW_SPDT
+Adding package HEADER_9
+Adding package C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB/R
+Adding package RESISTOR_VAR_2
+Adding component HEADER NAP
+Found footprint HEADER 6 from PRT file for part HEADER_6, comp HEADER NAP
+Adding component C10
+Found footprint AC200\100 from PRT file for part CAP, comp C10
+Adding component C11
+Adding component J8
+Found library footprint with same name as part CON3
+Adding component C6
+Adding component C12
+Adding component D2
+Found footprint LED 3MM from PRT file for part LED, comp D2
+Adding component R15
+Found footprint HEADER 3 from PRT file for part RESISTOR_VAR_0, comp R15
+Adding component J11
+Found footprint HOLE 3MM from PRT file for part HEADER_1, comp J11
+Adding component J15
+Adding component R18
+Found footprint RESISTOR from PRT file for part R, comp R18
+Adding component R13
+Adding component J5
+Found footprint 89S52 from PRT file for part CON16, comp J5
+Adding component J16
+Adding component Y1
+Found footprint THACH ANH from PRT file for part CRYSTAL, comp Y1
+Adding component C9
+Found footprint CAPACITOR 1UF/10UF/100UF from PRT file for part CAPACITOR, comp C9
+Adding component JP3
+Adding component SW4
+Found footprint HEADER 2 from PRT file for part SW_PUSHBUTTON, comp SW4
+Adding component J14
+Adding component VR LCD
+Adding component SW2
+Adding component J17
+Adding component U2
+Found footprint LM7805 from PRT file for part LM7805/TO_1, comp U2
+Adding component R16
+Adding component R17
+Adding component C1
+Adding component SW5
+Adding component D1
+Found footprint CAU DIODE 5A from PRT file for part BRIDGE_0, comp D1
+Adding component J13
+Adding component J10
+Adding component JP4
+Adding component R20
+Adding component J1
+Found footprint DIP.100/16/W.300/L.800 from PRT file for part HEADER_8X2_0, comp J1
+Adding component SW3
+Adding component J7
+Adding component J9
+Adding component J18
+Adding component SW6
+Adding component SW7
+Adding component J3
+Found footprint POLCON.100/RH/TM1SQS/W.440/9 from PRT file for part HEADER_9, comp J3
+Adding component C13
+Adding component C4
+Adding component J12
+Adding component R19
+Adding component R1
+Adding component J19
+Adding component C2
+Adding component C5
+Adding component R14
+Adding component J20
+Adding component C3
+Adding net N5416036
+Adding net OUT MICROPHONE
+Adding net RXD
+Adding net TXD
+Adding net N5437557
+Adding net N5437553
+Adding net GND_POWER
+Adding net N5437465
+Adding net N5437477
+Adding net N5437473
+Adding net N5437493
+Adding net N5437501
+Adding net N5437469
+Adding net N5415992
+Adding net N5416194
+Adding net N5444423
+Adding net N5415624
+Adding net N5455664
+Adding net N5456184
+Adding net N5456562
+Adding net N5415966
+Adding net XTA2
+Adding net XTA1
+Adding net DOWN
+Adding net LATCH
+Adding net UP
+Adding net MODE
+Adding net SCK
+Adding net MISO
+Adding net D5
+Adding net D4
+Adding net N5446804
+Adding net VCC
+Adding net D7
+Adding net MOSI
+Adding net E
+Adding net N5416562
+Adding net RW
+Adding net GND
+Adding net N5416164
+Adding net RS
+Adding net RESET
+Adding net D6
+Adding net N54164560
+Deleting net DEFAULT
+*EOF*
+No errors found

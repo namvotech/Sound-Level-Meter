@@ -1,0 +1,48 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+adc_value                                                         0x03C1       4
+db_value                                                          0x03C5       4
+connect                                                           0x03C9       1
+bien_mode                                                         0x03CA       1
+ng                                                                0x03CB       2
+tr                                                                0x03CD       2
+ch                                                                0x03CF       2
+dv                                                                0x03D1       2
+Nghin                                                             0x03D3       2
+Tram                                                              0x03D5       2
+Chuc                                                              0x03D7       2
+Donvi                                                             0x03D9       2
+truyen_data                                                       0x03DB       1
+truyen_delay                                                      0x03DC       1
+rx_buffer                                                         0x03DD       8
+rx_wr_index                                                       0x03E5       1
+rx_counter                                                        0x03E6       1
+tx_buffer                                                         0x03E7       8
+tx_wr_index                                                       0x03EF       1
+tx_rd_index                                                       0x03F0       1
+tx_counter                                                        0x03F1       1
+_base_y                                                           0x03F2       4
+_lcd_x                                                            0x03F6       1
+_lcd_y                                                            0x03F7       1
+_lcd_maxx                                                         0x03F8       1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+latch_old                                                         R2.0      1bit
+mode_old                                                          R2.1      1bit
+up_old                                                            R2.2      1bit
+tt                                                                R2.3      1bit
+bien_edit_db_value                                                R5           1
+bien_baud                                                         R4           1
+data                                                              R7           1
+edit_db_value1                                                    R8,R9        2
+bien_delay                                                        R6           1
+delay                                                             R10,R11      2
+luu_delay                                                         R12,R13      2
+rx_buffer_overflow                                                R2.4      1bit
